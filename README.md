@@ -1,5 +1,24 @@
 A React project demonstrating core concepts such as components, props, state, and JSX through practical examples.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **React Essentials**
 
 This project is a hands-on demonstration of the fundamental building blocks of React. It focuses on understanding how components, props, state, and JSX work together to create dynamic and reusable user interfaces.
